@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:11:59.253801+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-03-18T16:59:33.555881+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 16时59分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英国基金抢购国债，对赌市场完全误读了英国央行",
@@ -99,7 +99,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "裕信银行首席执行官：我们正就数字欧元与欧洲央行进行大量互动。",
+          "url": "https://flash.jin10.com/detail/20260318161835544800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -154,11 +165,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 16时59分]"
         }
       ]
     },
