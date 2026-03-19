@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T21:20:53.894572+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2026-03-19T22:56:07.116854+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 55,
+      "match_count": 66,
       "titles": [
         {
           "title": "央行：坚定维护股票、债券、外汇等金融市场平稳运行",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 21时20分]"
+          "appearance_count": 8,
+          "time_info": "[16时53分 ~ 22时56分]"
         },
         {
           "title": "机构：面对不确定性先“后退一步” 央行集体观望",
@@ -84,7 +84,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -282,6 +282,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "金十整理：欧洲央行利率决议及行长发布会重点一览",
+          "url": "https://flash.jin10.com/detail/20260319223733079800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "瑞士央行将利率维持在零水平，关注中东冲突局势",
           "url": "https://flash.jin10.com/detail/20260319164306904800",
           "source": "金十数据",
@@ -321,9 +332,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
+        },
+        {
+          "title": "提醒：欧洲央行行长拉加德新闻发布会结束。",
+          "url": "https://wallstreetcn.com/livenews/3073431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "日本央行行长植田和男：潜在通胀率正逐步加速向2%的目标靠拢，但尚未稳定。",
@@ -348,13 +370,24 @@
           "time_info": "16时54分"
         },
         {
+          "title": "欧洲央行行长拉加德：（欧元区）劳动力市场已经不如2022年那样火热。",
+          "url": "https://wallstreetcn.com/livenews/3073428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "佩尔亨特公司首席经济学卡勒姆·皮克林：尽管英国央行官员私下可能仍认为下一次利率调整更有可能是降息而非上加息，因为伊朗战争的时间表存在不确定性，但主张进行这样的调整是不明智的。",
           "url": "https://flash.jin10.com/detail/20260319204656268800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -368,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "欧洲央行副行长de Guindos：相比美国，欧洲对私人市场的风险敞口更加有限。 （基金行业的）赎回限制体现出流动性错配问题。",
+          "url": "https://wallstreetcn.com/livenews/3073425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "巴西央行：由于冲突持续时间缺乏明确性，通胀预测的不确定性已显著上升。委员会认为适宜启动货币政策校准周期。",
@@ -431,7 +475,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -464,7 +508,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         },
@@ -478,6 +522,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：各种情景未计入货币政策应对措施。",
+          "url": "https://flash.jin10.com/detail/20260319222746455800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行编制的假设场景包括了不利的、严重的假设条件。 自2022年以来，央行就改善了诸多（场景假设）模型。",
+          "url": "https://wallstreetcn.com/livenews/3073420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "机构：预计日央行将把加息时间从6月推迟至7月",
@@ -500,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "策略师：能源价格冲击渗透欧洲央行“舒适区”，短期利率波动将加剧",
+          "url": "https://flash.jin10.com/detail/20260319222732900800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "日本央行行长植田和男：在重大冲击期间必须检查金融体系的稳定性。 正在考虑是否公布不包含政策因素的价格数据。",
@@ -552,9 +629,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：我们将尤其关注大宗商品市场。 将特别关注瓶颈问题，特别关注销售价格预期。 将留意诸多需求指标和薪资指标。",
+          "url": "https://wallstreetcn.com/livenews/3073417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "鲍威尔捅刀！日元逼近160关口，日股日债双杀，日本央行今日救不救？",
@@ -568,6 +656,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "欧洲央行行长拉加德：通胀预期与家庭和企业的记忆有很大关系。",
+          "url": "https://flash.jin10.com/detail/20260319222420319800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "日本央行行长植田和男：迄今公布的信息显示工资上涨态势坚实。 一个关键点是中小企业的加薪趋势。 初步信息显示，中小企业的工资增长势头可能优于往年。 将参考RENGO第一轮工资调查及我们的研究，以判断中小企业的工资趋势。",
           "url": "https://wallstreetcn.com/livenews/3073028",
           "source": "华尔街见闻-快讯",
@@ -577,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：决定是一致通过的。 我们从一个良好的基础前进。 并不是说形势（状态）良好，而是说我们（在采取货币政策行动方面）准备就绪。 无法围绕央行（潜在的）行动给出时间预测。 欧洲央行在采取（货币政策）策略方面、在迅速行动方面准备就绪。 央行现在更加关注前景围绕的风险。",
+          "url": "https://wallstreetcn.com/livenews/3073415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "中东战火逼停英国央行“降息列车”，周四决议悬念丛生！",
@@ -621,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：劳动力市场不如2022年火热。",
+          "url": "https://flash.jin10.com/detail/20260319222402077800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
@@ -649,11 +770,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时20分]"
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 22时56分]"
         }
       ]
     },
@@ -696,7 +818,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时20分"
         }
