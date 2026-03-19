@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-03-20T00:03:20.656286+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-03-20T01:55:59.198860+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "中国商务部 央行 出口管制",
+      "match_count": 3,
       "titles": [
         {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
+          "title": "报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方",
+          "url": "https://wallstreetcn.com/livenews/3073490",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 1,
-      "titles": [
+          "time_info": "01时55分"
+        },
         {
           "title": "欧洲央行：预计2026年石油价格为81.3美元/桶，2027年料为72.1美元/桶，2028年料为70.2美元/桶。 在恶劣假设场景中，预计2026年通胀率将高出0.9个百分点，2027年将高出0.1个百分点。 在恶劣假设场景中，预计2026年调和CPI（HICP）将为1.8%，2027年将为2.8%。 在恶劣假设场景中，预计2027年一季度通胀将达到6.3%见顶。",
           "url": "https://wallstreetcn.com/livenews/3073445",
@@ -34,6 +28,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "报道：欧洲央行官员认为最早4月会议有可能加息",
+          "url": "https://wallstreetcn.com/livenews/3073484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时55分]"
         }
       ]
     }
