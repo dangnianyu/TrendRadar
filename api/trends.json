@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:02:18.331973+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-03-19T14:07:40.533548+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "机构：面对不确定性先“后退一步” 央行集体观望",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -137,7 +137,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -151,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "中东战火逼停英国央行“降息列车”，周四决议悬念丛生！",
+          "url": "https://flash.jin10.com/detail/20260319132143848800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -193,11 +204,12 @@
           "ranks": [
             16,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 13时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 14时07分]"
         }
       ]
     }
