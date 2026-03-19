@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-20T04:48:12.150684+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-20T05:43:04.418722+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "全球央行严阵以待应对通胀反扑 美元承压下跌超1%",
+          "url": "https://flash.jin10.com/detail/20260320050247057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
         {
           "title": "欧洲央行管委Stournaras：中东冲突是供应链冲击。 如果伊朗战争持续，可能会造成严重影响。",
           "url": "https://wallstreetcn.com/livenews/3073517",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "美国至3月20日当周外国央行持有美国国债 -92.54亿美元，前值-397.55亿美元。",
+          "url": "https://flash.jin10.com/detail/20260320043131091800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
         }
       ]
     },
@@ -62,11 +84,12 @@
           "url": "https://wallstreetcn.com/livenews/3073558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时43分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -75,7 +98,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
@@ -94,8 +117,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 05时43分]"
         }
       ]
     }
