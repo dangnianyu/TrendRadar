@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-20T05:43:04.418722+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-03-20T06:56:49.378582+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "据AXIOS网站：Anthropic与国土安全部在闭门会议中会面。双方讨论主要集中在模型蒸馏以及出口管制等问题，与五角大楼的争端并非讨论的核心。",
+          "url": "https://flash.jin10.com/detail/20260320060515495800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
         {
           "title": "全球央行严阵以待应对通胀反扑 美元承压下跌超1%",
           "url": "https://flash.jin10.com/detail/20260320050247057800",
@@ -14,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -52,6 +63,28 @@
           "time_info": "00时03分"
         },
         {
+          "title": "Anthropic PBC周三会见美国白宫的国土安全委员会。 Anthropic高管Jack Clark与特朗普政府的一个委员会讨论出口管制问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "欧洲理事会任命Vujcic为欧洲央行副行长。",
+          "url": "https://wallstreetcn.com/livenews/3073590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "报道：欧洲央行官员认为最早4月会议有可能加息",
           "url": "https://wallstreetcn.com/livenews/3073484",
           "source": "华尔街见闻-快讯",
@@ -69,9 +102,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3073583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     },
@@ -114,11 +158,29 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     }
