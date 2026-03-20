@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:58:20.544246+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-03-20T15:08:45.483677+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 15时08分]"
         },
         {
           "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 15时08分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -86,6 +86,17 @@
           "time_info": "[06时56分 ~ 07时37分]"
         },
         {
+          "title": "欧洲央行管委Escriva：很难准确评估能源价格上涨的影响。 欧洲央行的决策基于中期通胀走势，有时情况会缓和，并不一定需要调整利率。 当前局势非常不确定、非常波动，我们需要持续评估大量信息。",
+          "url": "https://wallstreetcn.com/livenews/3073856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "全球央行严阵以待应对通胀反扑 美元承压下跌超1%",
           "url": "https://flash.jin10.com/detail/20260320050247057800",
           "source": "金十数据",
@@ -97,15 +108,48 @@
           "time_info": "05时43分"
         },
         {
+          "title": "欧洲央行管委艾斯克里瓦：措施必须“持续所需时间，但不超过所需时间”。",
+          "url": "https://flash.jin10.com/detail/20260320145956570800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "印度卢比续创新低 印度央行再次进场干预",
           "url": "https://flash.jin10.com/detail/20260320132924882800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：西班牙政府应对伊朗战争影响的任何措施都必须“精心定制”。",
+          "url": "https://flash.jin10.com/detail/20260320145937185800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：目前“很难准确评估能源价格上涨将产生何种影响”。",
+          "url": "https://flash.jin10.com/detail/20260320145921917800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "欧洲央行管委Stournaras：中东冲突是供应链冲击。 如果伊朗战争持续，可能会造成严重影响。",
@@ -136,9 +180,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：形势非常不确定、非常动荡，我们需要继续评估大量信息。",
+          "url": "https://flash.jin10.com/detail/20260320145911179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "欧洲央行管委艾斯克里瓦：欧洲央行依据中期通胀走势作出决策，有时局势会自行缓解，并不必然导致利率调整。",
+          "url": "https://flash.jin10.com/detail/20260320145852350800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方",
@@ -202,7 +268,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -224,7 +290,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -257,9 +323,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "欧洲央行管委Nagel：如果价格前景恶化，欧洲央行将在4月需要加息。 中东冲突的发展将对价格产生重大影响。 2022年的经验将发挥重要作用。 中东局势升级对欧元区构成供应冲击。 欧洲央行将采取必要的行动。",
+          "url": "https://wallstreetcn.com/livenews/3073825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         }
       ]
     },
