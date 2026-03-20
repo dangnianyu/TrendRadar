@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T03:43:36.828291+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-03-21T04:41:22.846927+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 03时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：欧洲央行可以在必要时对通胀风险做出迅速回应。",
@@ -61,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -146,8 +146,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
