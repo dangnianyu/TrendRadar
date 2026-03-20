@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T12:53:21.007143+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-03-20T13:58:20.544246+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时58分]"
         },
         {
           "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时58分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -39,6 +39,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "摩根士丹利：预计欧洲央行将在2026年6月和9月分别加息25个基点，此前预测今年维持利率不变。 面对较低的经济增长，预计欧洲央行可能会在2027年6月和9月再次降息，将利率降至2%，回到中性区间。",
+          "url": "https://wallstreetcn.com/livenews/3073800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "摩根士丹利：预计欧洲央行将在2026年6月和9月各加息25个基点，而此前的预测为今年利率保持不变。面对增长放缓，我们认为欧洲央行很可能会在2027年6月和9月再次降息，将利率降至2%，使其回到中性区间。",
+          "url": "https://flash.jin10.com/detail/20260320134321493800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "摩根大通：预计欧洲央行将在2026年4月和7月加息，此前预测为全年维持利率不变。 一旦通胀第二轮效应风险消失，欧洲央行有理由反向解除紧缩。 目前，我们仅初步预计2027年下半年会有一次降息。",
+          "url": "https://wallstreetcn.com/livenews/3073795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "据AXIOS网站：Anthropic与国土安全部在闭门会议中会面。双方讨论主要集中在模型蒸馏以及出口管制等问题，与五角大楼的争端并非讨论的核心。",
@@ -64,6 +97,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "印度卢比续创新低 印度央行再次进场干预",
+          "url": "https://flash.jin10.com/detail/20260320132924882800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "欧洲央行管委Stournaras：中东冲突是供应链冲击。 如果伊朗战争持续，可能会造成严重影响。",
           "url": "https://wallstreetcn.com/livenews/3073517",
           "source": "华尔街见闻-快讯",
@@ -81,9 +125,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "摩根大通：预计英国央行将于2026年4月和7月分别将利率上调25个基点，此前预测为今年全年维持利率不变。 预计通胀将在明年回落，但要到春季才会出现。",
+          "url": "https://wallstreetcn.com/livenews/3073776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方",
@@ -141,6 +196,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "摩根大通：预计英欧央行均将于4月和7月各加息25个基点",
+          "url": "https://flash.jin10.com/detail/20260320131555382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美国至3月20日当周外国央行持有美国国债 -92.54亿美元，前值-397.55亿美元。",
           "url": "https://flash.jin10.com/detail/20260320043131091800",
           "source": "金十数据",
@@ -150,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "摩根大通：我们同样认为，一旦（通胀）第二轮效应的风险消退，欧洲央行就有理由逆转紧缩政策。目前，我们仅预计2027年下半年会降息一次。",
+          "url": "https://flash.jin10.com/detail/20260320131007251800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -172,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "摩根大通：预计欧央行将于2026年4月和7月加息，而此前的预测为全年维持利率不变。就时机而言，可能会等到6月会议时再等待新的预测结果，但在4月会议上确认3月基准预测就足以触发加息。",
+          "url": "https://flash.jin10.com/detail/20260320130853193800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
