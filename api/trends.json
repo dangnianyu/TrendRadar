@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T19:38:08.544640+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-03-20T21:14:32.485652+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时38分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[10时38分 ~ 21时14分]"
         },
         {
           "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
@@ -498,7 +499,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
@@ -511,6 +512,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时37分]"
+        },
+        {
+          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
+          "url": "https://flash.jin10.com/detail/20260320210018195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
