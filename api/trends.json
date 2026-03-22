@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T06:33:41.378543+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-03-23T07:36:05.056517+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768076",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 06时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
