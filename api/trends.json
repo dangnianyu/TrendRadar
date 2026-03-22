@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:06:03.368630+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-22T22:35:52.235036+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时59分 ~ 21时06分]"
+          "appearance_count": 13,
+          "time_info": "[12时59分 ~ 22时35分]"
         },
         {
           "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
@@ -84,11 +84,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E5%8F%91%E5%A3%B0+%E5%85%B3%E4%B9%8E%E8%82%A1%E5%B8%82%E5%80%BA%E5%B8%82%E4%BA%BA%E6%B0%91%E5%B8%81",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 22时35分]"
         },
         {
           "title": "韩国提名BIS官员为新任央行行长",
@@ -130,7 +131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -152,7 +153,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
@@ -199,7 +200,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
