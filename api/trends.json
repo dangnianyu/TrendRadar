@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T16:43:09.499514+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-03-22T17:40:56.779204+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 17时40分]"
         },
         {
           "title": "韩国政府：国际清算银行经济顾问申铉松（Hyun-Song Shin）出任韩国央行行长。",
@@ -56,11 +57,12 @@
             4,
             6,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 17时40分]"
         },
         {
           "title": "央行行长潘功胜：运用多种工具保持流动性充裕",
