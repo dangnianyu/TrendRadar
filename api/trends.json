@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T15:21:57.588931+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-23T17:06:46.045520+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
@@ -26,9 +26,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "希腊央行：希腊1月份旅游收入由2025年同月的2.99亿欧元增至4.73亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260323165655558800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "韩国提名BIS资深官员申铉松为下任央行行长",
@@ -59,9 +70,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "机构：随着市场进一步押注英国央行年内加息 英国国债跌势加剧",
+          "url": "https://flash.jin10.com/detail/20260323165239423800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "央行行长发声 关乎股市债市人民币",
@@ -87,11 +109,29 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 17时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     }
