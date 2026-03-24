@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-24T10:40:17.803576+08:00",
-  "total_titles_processed": 822,
-  "failed_sources": [],
+  "generated_at": "2026-03-24T13:01:07.121264+08:00",
+  "total_titles_processed": 985,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
@@ -25,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -36,7 +38,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -47,7 +49,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -102,7 +104,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -201,8 +203,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 13时01分]"
         }
       ]
     }
