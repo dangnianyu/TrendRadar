@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T07:40:07.360611+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-24T10:40:17.803576+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "世界黄金协会：受地缘政治风险推动，更多央行将增持黄金",
+          "url": "https://flash.jin10.com/detail/20260324102004183800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "世界黄金协会：今年将有更多央行买入黄金。",
+          "url": "https://flash.jin10.com/detail/20260324101639379800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "世界黄金协会（WGC）表示，今年将有更多央行增持黄金。",
+          "url": "https://wallstreetcn.com/livenews/3075578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "欧洲央行官员Radev：一些指标表明存在第二轮（通胀）效应。 欧洲央行将根据未来掌握的数据积极行动。（CNBC）",
@@ -63,6 +96,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "中国央行公开市场今日净回笼335亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3075536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "加拿大央行官员Kozicki与Mendes将退出央行管委会。",
           "url": "https://wallstreetcn.com/livenews/3075348",
           "source": "华尔街见闻-快讯",
@@ -86,7 +130,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -97,7 +141,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -153,11 +197,12 @@
           "ranks": [
             11,
             12,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时40分]"
         }
       ]
     }
