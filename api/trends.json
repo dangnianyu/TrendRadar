@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-03-24T13:01:07.121264+08:00",
-  "total_titles_processed": 985,
-  "failed_sources": [
-    "cls-hot"
-  ],
+  "generated_at": "2026-03-24T14:09:41.412611+08:00",
+  "total_titles_processed": 1076,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -32,6 +30,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "欧洲央行管委Vujcic：官员们很快就会知道是否需要采取行动。 欧洲央行将在4月获得大量新数据和消息。 很难说我们会距离滞胀有多近。 风险正朝着滞胀方向发展。 面对滞胀风险，欧洲央行必须保持警惕。 如果需要加息，最好先采取小幅行动。",
+          "url": "https://wallstreetcn.com/livenews/3075680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "日本央行行长植田和男：预计基础通胀将温和上升。 取消食品销售税对通胀的影响将很小。 将实施政策以实现工资增长下的价格稳定。",
+          "url": "https://wallstreetcn.com/livenews/3075679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "世界黄金协会：今年将有更多央行买入黄金。",
           "url": "https://flash.jin10.com/detail/20260324101639379800",
           "source": "金十数据",
@@ -41,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "欧洲央行管委武伊契奇：面对滞胀风险，欧洲央行必须保持警惕",
+          "url": "https://flash.jin10.com/detail/20260324135522992800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "世界黄金协会（WGC）表示，今年将有更多央行增持黄金。",
@@ -54,6 +85,39 @@
           "time_info": "10时40分"
         },
         {
+          "title": "欧洲央行管委武伊契奇：如果需要加息，最好先从小幅调整开始。",
+          "url": "https://flash.jin10.com/detail/20260324134729433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "日本央行行长植田和男：承诺提供政策指导，旨在实现稳定的通胀和工资增长。",
+          "url": "https://flash.jin10.com/detail/20260324134358210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "日本央行行长植田和男：尽管食品价格会暂时下降，但短期冻结食品销售税对通胀预期的影响可能有限。",
+          "url": "https://flash.jin10.com/detail/20260324134200070800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "欧洲央行官员Radev：一些指标表明存在第二轮（通胀）效应。 欧洲央行将根据未来掌握的数据积极行动。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3075322",
           "source": "华尔街见闻-快讯",
@@ -65,6 +129,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "欧洲央行管委武伊契奇：欧洲央行必须警惕滞胀风险。",
+          "url": "https://flash.jin10.com/detail/20260324134052375800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "日本央行行长植田和男：劳动力市场紧张、企业积极的薪资和定价行为，将使工资与物价同步上涨的周期持续下去。",
+          "url": "https://flash.jin10.com/detail/20260324133952495800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
           "url": "https://wallstreetcn.com/livenews/3075317",
           "source": "华尔街见闻-快讯",
@@ -74,6 +160,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "日本央行行长植田和男：预计核心通胀将温和加速。",
+          "url": "https://flash.jin10.com/detail/20260324133941464800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "欧洲央行官员Buch：地缘政治风险明显上升。 需要付出更多努力打造一体化的单一市场。 银行需对不良贷款保持警惕。",
+          "url": "https://wallstreetcn.com/livenews/3075662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "欧洲央行管委拉德夫：欧洲央行将根据未来的数据采取果断行动。",
@@ -203,8 +311,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 13时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 14时09分]"
         }
       ]
     }
