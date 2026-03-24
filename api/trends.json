@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:27:02.203597+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-03-24T23:07:08.673569+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 180,
+      "match_count": 187,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 23时07分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -52,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时39分 ~ 21时27分]"
+          "appearance_count": 20,
+          "time_info": "[06时39分 ~ 23时07分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -115,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 23时07分]"
         },
         {
           "title": "不光期货异动？预测市场也暗示有“内鬼”知道特朗普要发贴……",
@@ -204,8 +205,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时58分 ~ 21时27分]"
+          "appearance_count": 12,
+          "time_info": "[15时58分 ~ 23时07分]"
         },
         {
           "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
@@ -286,8 +287,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 23时07分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”，已形成协议要点",
@@ -304,6 +305,32 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[10时40分 ~ 21时27分]"
+        },
+        {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时03分 ~ 23时07分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时03分 ~ 23时07分]"
         },
         {
           "title": "专家：战争若不能在短时间停止，国际油价突破200美元并非不可能",
@@ -419,6 +446,20 @@
           "time_info": "[01时01分 ~ 07时40分]"
         },
         {
+          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2322947",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时57分 ~ 23时07分]"
+        },
+        {
           "title": "美以伊战争丨特朗普甩锅防长：你带头表态要打伊朗",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -428,32 +469,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时59分 ~ 14时09分]"
-        },
-        {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 21时27分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 21时27分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -565,6 +580,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "黄金大跌原因何在",
           "url": "https://www.douyin.com/hot/2441473",
           "source": "抖音",
@@ -576,17 +602,17 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
-          "title": "特朗普称推迟打击伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2322947",
-          "source": "财联社热门",
+          "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
+          "url": "https://wallstreetcn.com/articles/3768257",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            9
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时57分 ~ 21时27分]"
+          "time_info": "[19时51分 ~ 23时07分]"
         },
         {
           "title": "美国总统特朗普：与伊朗达成协议的机会非常大。",
@@ -600,6 +626,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普转发巴基斯坦总理贴文 后者称愿意充当斡旋方",
+          "url": "https://flash.jin10.com/detail/20260324225753549800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "佰维存储：与某存储原厂签订日常经营性采购合同，合同总承诺采购金额为15亿美元",
           "url": "https://wallstreetcn.com/livenews/3075944",
           "source": "华尔街见闻-快讯",
@@ -609,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 23时07分]"
         },
         {
           "title": "美国总统特朗普：伊朗想要和平，已同意不拥有核武器；将给伊朗五天时间。",
@@ -650,7 +698,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -705,7 +753,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -981,18 +1029,6 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
-          "url": "https://wallstreetcn.com/articles/3768257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时51分 ~ 21时27分]"
-        },
-        {
           "title": "金价大跌后还会回升吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
           "source": "bilibili 热搜",
@@ -1005,17 +1041,6 @@
           "time_info": "[01时01分 ~ 07时40分]"
         },
         {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 18时58分]"
-        },
-        {
           "title": "这波黄金涨跌的底层逻辑是什么",
           "url": "https://www.toutiao.com/trending/7620413862973541898/",
           "source": "今日头条",
@@ -1026,6 +1051,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 04时44分]"
+        },
+        {
+          "title": "黄金大幅回撤",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E5%9B%9E%E6%92%A4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时07分]"
         },
         {
           "title": "金价震荡下的金店骗局",
@@ -1192,6 +1229,17 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
+          "title": "特朗普“临阵变卦”有何意图",
+          "url": "https://www.toutiao.com/trending/7619698764027166763/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "曝特朗普与以总理通话后批准对伊行动",
           "url": "https://www.toutiao.com/trending/7619601251563503659/",
           "source": "今日头条",
@@ -1214,15 +1262,15 @@
           "time_info": "[15时58分 ~ 15时59分]"
         },
         {
-          "title": "黄金大幅回撤",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E5%9B%9E%E6%92%A4%23&t=31&band_rank=28&Refer=top",
+          "title": "周大福一口价金饰比当前金价贵",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E9%A5%B0%E6%AF%94%E5%BD%93%E5%89%8D%E9%87%91%E4%BB%B7%E8%B4%B5%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "特朗普不顾伊朗否认称已完美对话",
@@ -1308,7 +1356,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1429,9 +1477,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
+          "url": "https://wallstreetcn.com/livenews/3076046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月23日（周一）晚盘收盘上涨0.04%报978.0元/克；<br/>上海黄金交易所白银T+D 3月23日（周一）晚盘收盘上涨4.83%报17094.0元/千克。",
@@ -1484,7 +1543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1528,7 +1587,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1561,7 +1620,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1583,7 +1642,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1638,7 +1697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1726,7 +1785,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1740,6 +1799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "莫迪紧急连线特朗普讨论霍尔木兹问题，印度陷入能源危机！",
+          "url": "https://flash.jin10.com/detail/20260324223030542800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.8877，较上一交易日官方收盘价涨185点，较上日夜盘收盘跌82点。",
@@ -1770,9 +1840,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "美股盘初主要行业ETF多数下跌，网络股指数ETF跌近2%，全球科技股指数ETF、全球航空业ETF跌超1%，能源业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "存储芯片巨头豪掷15亿美元，签下“保供”长单！| 盘后公告精选",
@@ -1781,7 +1862,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -1880,7 +1961,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2023,7 +2104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2097,7 +2178,7 @@
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -2117,7 +2198,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2159,11 +2240,12 @@
           "url": "https://www.douyin.com/hot/2442122",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[21时26分 ~ 23时07分]"
         },
         {
           "title": "日本央行行长植田和男：预计基础通胀将温和上升。 取消食品销售税对通胀的影响将很小。 将实施政策以实现工资增长下的价格稳定。",
@@ -2205,7 +2287,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2241,6 +2323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "匈牙利央行行长表示，所有选项都可能被考虑，具体决策将由理事会逐月作出。",
+          "url": "https://flash.jin10.com/detail/20260324223212523800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "欧洲央行官员Radev：一些指标表明存在第二轮（通胀）效应。 欧洲央行将根据未来掌握的数据积极行动。（CNBC）",
@@ -2326,7 +2419,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2348,7 +2441,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -2384,6 +2477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
+        },
+        {
+          "title": "欧洲央行管委Villeroy：已经做好充分准备，可以在必要时采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3076029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "欧洲央行管委卡扎克斯：押注两次加息似乎合理，让我们拭目以待。",
@@ -2447,7 +2551,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
@@ -2455,7 +2559,7 @@
     },
     {
       "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek郭达雅被曝离职",
@@ -2470,8 +2574,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 21时27分]"
+          "appearance_count": 22,
+          "time_info": "[01时01分 ~ 23时07分]"
         },
         {
           "title": "如何看待谷歌逐步收紧安卓应用侧载计划？",
@@ -2516,6 +2620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "OpenAI高管Lightcap：存储芯片供应短缺成为扩张的瓶颈。 对于AI（业务）成长而言，能源（电力）是另外一个潜在的瓶颈。",
+          "url": "https://wallstreetcn.com/livenews/3076032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
