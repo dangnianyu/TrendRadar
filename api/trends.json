@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-03-25T18:56:34.994176+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-25T19:48:44.071119+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 145,
+      "match_count": 152,
       "titles": [
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 19时48分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 19时48分]"
+        },
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
           "url": "https://wallstreetcn.com/articles/3768257",
@@ -19,31 +44,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时07分 ~ 15时58分]"
-        },
-        {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 18时56分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 18时56分]"
         },
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -118,6 +118,20 @@
           "time_info": "[10时45分 ~ 17时03分]"
         },
         {
+          "title": "全球石油美元体系：生于1974，落于2026？",
+          "url": "https://www.cls.cn/detail/2323885",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 19时48分]"
+        },
+        {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
           "source": "澎湃新闻",
@@ -143,11 +157,12 @@
             16,
             24,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 18时56分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 19时48分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -160,20 +175,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时39分 ~ 14时10分]"
-        },
-        {
-          "title": "全球石油美元体系：生于1974，落于2026？",
-          "url": "https://www.cls.cn/detail/2323885",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时56分]"
         },
         {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
@@ -241,6 +242,18 @@
           "time_info": "[01时07分 ~ 07时39分]"
         },
         {
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时48分]"
+        },
+        {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
           "url": "https://wallstreetcn.com/articles/3768206",
           "source": "华尔街见闻",
@@ -250,18 +263,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普称已向伊朗提出和平方案，中方回应",
-          "url": "https://www.cls.cn/detail/2324238",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时56分]"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报71.77美元/盎司。",
@@ -371,7 +372,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -429,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "程一笑：截至26年1月可灵AI ARR已超3亿美元，预计今年收入翻倍以上增长",
+          "url": "https://flash.jin10.com/detail/20260325193948964800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间周三晚上7点20分在全美共和党国会委员会晚宴上发表讲话。",
@@ -511,6 +523,19 @@
           "time_info": "10时45分"
         },
         {
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时48分]"
+        },
+        {
           "title": "印度卢比兑美元汇率创新低 资金在持续流出印度资产",
           "url": "https://wallstreetcn.com/livenews/3076530",
           "source": "华尔街见闻-快讯",
@@ -559,6 +584,19 @@
           "time_info": "[05时45分 ~ 06时40分]"
         },
         {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时48分]"
+        },
+        {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
           "url": "https://www.cls.cn/detail/2323307",
           "source": "财联社热门",
@@ -581,16 +619,28 @@
           "time_info": "[10时45分 ~ 14时10分]"
         },
         {
-          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
-          "url": "https://www.cls.cn/detail/2323952",
-          "source": "财联社热门",
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时58分 ~ 18时56分]"
+          "time_info": "[17时03分 ~ 19时48分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时48分]"
         },
         {
           "title": "美伊传闻影响金价，中金称勿高估「全球央行购金」动力，黄金走势未来依然复杂，对此你怎么看？",
@@ -604,28 +654,15 @@
           "time_info": "[13时01分 ~ 14时10分]"
         },
         {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时56分]"
-        },
-        {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 19时48分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报89.71美元/桶。",
@@ -700,15 +737,16 @@
           "time_info": "[06时40分 ~ 07时39分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            20
+            29,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 19时48分]"
         },
         {
           "title": "为何越来越多的人执着于买黄金",
@@ -723,17 +761,6 @@
           "time_info": "[17时03分 ~ 18时56分]"
         },
         {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
           "url": "https://flash.jin10.com/detail/20260325024858912800",
           "source": "金十数据",
@@ -743,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-25）",
+          "url": "https://flash.jin10.com/detail/20260325193518273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "【美第82空降师约3000人将赴中东】3月24日，美国第82空降师部分部队即将部署至中东地区。目前相关命令正在制定中，预计将在接到指令后迅速出发。消息称，此次调动将包括地面作战部队及负责后勤与作战规划的指挥单元。第82空降师常备一支约3000人的“即时反应部队”，可在约18小时内部署至全球任一地区。该部队隶属于轻步兵编制，擅长通过空降方式快速进入争议地区执行任务，驻地位于北卡罗来纳州布拉格堡。3月24日，白宫表示，在总统特朗普考虑外交选项的同时，美国对伊朗的军事行动仍在“持续进行、未有减弱”。(央视新闻)",
@@ -864,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "闪迪子公司拟通过私募方式收购南亚科技约1.39亿股股份，交易金额约10亿美元。该战略股权投资约占南亚科技已发行普通股的3.9%。收购价格较南亚科技30日均价折价15%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "巴西央行宣布将于周二举行10亿美元的美元回购协议拍卖。",
@@ -1020,6 +1069,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "特朗普谈及3架美军战机在科威特被击落，称其为“小意外”，系被“爱国者”导弹击落",
+          "url": "https://wallstreetcn.com/livenews/3076636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美国最高法院似乎对美国总统特朗普关于“在美墨边境口岸不堪重负时，政府有权拒绝庇护申请人”的辩护立场持同情态度。",
           "url": "https://flash.jin10.com/detail/20260325003722801800",
           "source": "金十数据",
@@ -1059,7 +1119,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1271,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "Merck&Co将以每股53美元现金收购特恩斯制药（Terns Pharmaceuticals），权益价值约67亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3076629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "金价波动",
@@ -1515,6 +1586,17 @@
           "time_info": "15时58分"
         },
         {
+          "title": "拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。 第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。 第四季度调整后营业利润294.7亿元人民币，预估293.5亿元人民币。 第四季度调整后净利润263.0亿元人民币，预估311.6亿元人民币。 第四季度研发支出49.9亿元人民币，预估46.2亿元人民币。 拼多多美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3076621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "高盛：维持年底金价5400美元的乐观预测",
           "url": "https://flash.jin10.com/detail/20260325151727536800",
           "source": "金十数据",
@@ -1554,7 +1636,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -1603,15 +1685,15 @@
           "time_info": "04时51分"
         },
         {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
+          "title": "黄金坑已现？新债王喊抄底黄金丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260325190801891800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时56分"
+          "time_info": "19时48分"
         },
         {
           "title": "黄金连续突破",
@@ -1653,7 +1735,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -1661,7 +1743,7 @@
     },
     {
       "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "Claude刚刚杀死了OpenClaw！",
@@ -1684,23 +1766,12 @@
             5,
             4,
             3,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时56分]"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时07分 ~ 07时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 19时48分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -1713,8 +1784,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 19时48分]"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 07时39分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -1820,6 +1903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "市场消息：印度阿达尼集团在数据中心热潮中寻求与Meta公司、谷歌建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260325192657670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "OpenAI发布基于推广的安全政策。 政策将帮助开发面向青少年的保护措施。 政策精准定位青少年面临的常规风险。",
@@ -2023,7 +2117,7 @@
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "欧洲央行行长拉加德：央行随时准备好在任何一次会议上加息",
@@ -2035,6 +2129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
+        },
+        {
+          "title": "欧洲央行管委Pereira：我们已做好准备应对任何情况。 我们目前的状况显然比2022年时要好。",
+          "url": "https://wallstreetcn.com/livenews/3076659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "智利央行将基准利率设定在4.5%不变。",
@@ -2083,6 +2188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "欧洲央行管委佩雷拉：我们已准备好应对任何情况。",
+          "url": "https://flash.jin10.com/detail/20260325193604402800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "欧洲央行行长拉加德：（货币政策）快速正常化的可能性正在减弱。 现在判断哪种应对措施更为合适为时过早。 当前的传导效应可能小于2022年。 已做好准备在任意一次会议上采取行动（若适当）。",
@@ -2212,7 +2328,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -2278,7 +2394,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
