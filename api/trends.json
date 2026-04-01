@@ -1,353 +1,331 @@
 {
-  "generated_at": "2026-03-31T16:53:42.660105+08:00",
+  "generated_at": "2026-04-01T16:59:26.151945+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 25,
+      "match_count": 17,
       "titles": [
         {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "据市场消息：美的集团据悉考虑发行20亿美元可转换债券。",
-          "url": "https://flash.jin10.com/detail/20260331164428236800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
-          "url": "https://wallstreetcn.com/articles/3768769",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美的集团据悉考虑发行20亿美元可转换债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3080007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美国汽油4年来首次升破4美元！特朗普正给自己“埋雷”？",
-          "url": "https://flash.jin10.com/detail/20260331164243866800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
+          "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
+          "url": "https://www.cls.cn/detail/2331621",
+          "source": "财联社热门",
           "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9081，较上一交易日官方收盘价涨49点，较上日夜盘收盘涨46点。",
-          "url": "https://wallstreetcn.com/livenews/3079997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
-          "url": "https://wallstreetcn.com/articles/3768816",
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "白宫不愿看到的一幕发生了：美国汽油价格升破4美元/加仑！",
-          "url": "https://www.cls.cn/detail/2329967",
-          "source": "财联社热门",
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
+          "title": "战争烂尾，特朗普要跑了",
+          "url": "https://news.ifeng.com/c/8rxhKnCdBaV",
+          "source": "凤凰网",
           "ranks": [
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "华尔街分析师警告：如果战争持续到6月底，布油或升至每桶200美元",
-          "url": "https://www.cls.cn/detail/2329897",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "阿曼原油官方售价5月期货价格涨至每桶124.05美元，较4月的每桶68.15美元上涨55.90美元。",
-          "url": "https://flash.jin10.com/detail/20260331163741404800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "前德意志银行经理起诉该行 索赔至少6.24亿美元",
-          "url": "https://wallstreetcn.com/livenews/3079976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "在岸人民币兑美元3月31日16:30收盘报6.9081，较上一交易日上涨49点。",
-          "url": "https://flash.jin10.com/detail/20260331163125573800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "金价17年来最惨三月，但投行却还在赌？",
-          "url": "https://flash.jin10.com/detail/20260331163057051800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "自伊朗冲突爆发以来 全球央行已抛售815亿美元的美债",
-          "url": "https://wallstreetcn.com/livenews/3079971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国央行：持续做好货币金融总量统计和结构性专项统计",
-          "url": "https://wallstreetcn.com/livenews/3080002",
+          "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "日本央行在第二季度将按计划减少债券购买规模",
-          "url": "https://wallstreetcn.com/livenews/3079979",
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
+          "url": "https://wallstreetcn.com/articles/3768856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8740，较上一交易日官方收盘价涨341点，较上日夜盘收盘涨141点。",
+          "url": "https://wallstreetcn.com/livenews/3080754",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "在岸人民币兑美元4月1日16:30收盘报6.8740，较上一交易日上涨341点。",
+          "url": "https://flash.jin10.com/detail/20260401163110519800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
+          "url": "https://wallstreetcn.com/livenews/3080750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "央行：高质量完成地方政府融资平台债务统计 提升形势分析的灵敏性和前瞻性",
-          "url": "https://flash.jin10.com/detail/20260331163344657800",
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
+          "url": "https://flash.jin10.com/detail/20260401162353199800",
           "source": "金十数据",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
         },
         {
-          "title": "欧洲央行管委Muller：未来几季利率可能上升",
-          "url": "https://wallstreetcn.com/livenews/3079975",
+          "title": "瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄",
+          "url": "https://wallstreetcn.com/livenews/3080740",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
+        },
+        {
+          "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
+          "url": "https://wallstreetcn.com/livenews/3080739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3080732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "16时59分"
+        },
+        {
+          "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
+          "url": "https://wallstreetcn.com/articles/3768915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "ClaudeCode源码泄露",
+          "url": "https://www.douyin.com/hot/2451216",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2022371409997947809",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国商务部 央行 出口管制",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "欧洲央行行长公开驳斥美财长：伊朗战争的经济破坏绝非短暂",
+          "url": "https://www.cls.cn/detail/2331432",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。 政策组合能够克服严峻的经济形势。 毫无疑问，高油价将推高通胀。 若出现滞胀将难以应对。 对日本央行结束通缩的政策予以积极评价。 希望避免对近期日本央行政策进行评估。 日本央行无意干预外汇市场。 不便表态日元疲软或走强哪个更好。 被称为“再通胀主义者”并不觉得奇怪。",
+          "url": "https://wallstreetcn.com/livenews/3080742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：财政与货币政策的配合可支撑经济。",
+          "url": "https://flash.jin10.com/detail/20260401162250285800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：外汇汇率变动系货币及财政政策决策所致。",
+          "url": "https://flash.jin10.com/detail/20260401161818448800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "日本央行新任审议委员浅田统一郎：日本央行并不以汇率为目标，因此无法判断日元贬值或升值孰优。",
+          "url": "https://flash.jin10.com/detail/20260401161724416800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
