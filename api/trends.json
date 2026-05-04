@@ -1,243 +1,364 @@
 {
-  "generated_at": "2026-05-03T17:20:01.044652+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-04T18:10:12.853337+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
           "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
-          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "解说员王涛称央视认为 FIFA 世界杯版权 3 亿美元新标价离谱，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033970481439749297",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
-          "url": "https://wallstreetcn.com/livenews/3098259",
+          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
+          "url": "https://wallstreetcn.com/livenews/3098454",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时10分"
+        },
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
           "url": "https://www.cls.cn/detail/2362106",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
+          "title": "金价又又又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你都带娃去哪了？有选择研学吗？",
-          "url": "https://www.zhihu.com/question/2032142179552994728",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
-          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
-          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "title": "阿联酋退出欧佩克对石油美元影响几何",
+          "url": "https://www.toutiao.com/trending/7635945645181767231/",
           "source": "今日头条",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
-          "title": "特朗普说从德国撤军人数将远超5000",
-          "url": "https://flash.jin10.com/detail/20260503133536402800",
-          "source": "金十数据",
+          "title": "港交所拟重启黄金期货交易",
+          "url": "https://wallstreetcn.com/livenews/3098449",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时10分"
         },
         {
-          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
-          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "title": "摩根大通：将雪佛龙公司目标价从216美元上调至224美元。",
+          "url": "https://flash.jin10.com/detail/20260504170733973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
+          "url": "https://flash.jin10.com/detail/20260504170611349800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2.0%，报110.37美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "印度数据中心公司Yotta的CEO表示，公司在IPO前寻求60亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260504165231332800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时10分"
         },
         {
-          "title": "马斯克1583亿美元薪酬实际为0",
-          "url": "https://flash.jin10.com/detail/20260503115208564800",
-          "source": "金十数据",
+          "title": "WTI原油日内涨幅达1.0%，报103.01美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098431",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "18时10分"
         }
       ]
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 1,
+      "match_count": 9,
       "titles": [
         {
-          "title": "欧洲央行副行长金多斯：在欧洲央行任期结束后不会重返政坛",
-          "url": "https://flash.jin10.com/detail/20260503151704770800",
+          "title": "欧洲央行最新调查揭示风险：通胀预期显著上调！",
+          "url": "https://flash.jin10.com/detail/20260504173157330800",
           "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委Villeroy：加息需谨慎并做好准备",
+          "url": "https://wallstreetcn.com/livenews/3098453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委Kazimir：6月加息“几乎不可避免”",
+          "url": "https://wallstreetcn.com/livenews/3098452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委Simkus：很明显我们正在偏离基线情景。 没有承诺采取特定的利率路径。 加息的可能性更大。 很明显我们正在讨论6月可能加息。 供应链问题同样令人担忧。",
+          "url": "https://wallstreetcn.com/livenews/3098446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：欧洲面临广泛价格上涨的可能性越来越大，可能会持续一段时间。",
+          "url": "https://flash.jin10.com/detail/20260504170208276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：6月收紧政策几乎是不可避免的。",
+          "url": "https://flash.jin10.com/detail/20260504170203082800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委卡兹米尔：更高的能源价格势必会蔓延至整个经济。",
+          "url": "https://flash.jin10.com/detail/20260504170145521800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行企业调查：油价上涨已迅速传导到大多数依赖石油的商品销售价格上。 如果伊朗战争持续数月，供应链阻碍可能会产生类似疫情时期的通胀压力。 更广泛的价格传导过程可能比过去更为缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：欧洲央行需要\"关键数据的积累\"，以表明通胀正在固化，才会收紧政策。",
+          "url": "https://flash.jin10.com/detail/20260504170013268800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
+          "url": "https://wallstreetcn.com/articles/3771528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         }
       ]
     }
