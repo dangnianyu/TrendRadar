@@ -1,336 +1,286 @@
 {
-  "generated_at": "2026-05-04T18:10:12.853337+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-05T17:58:57.215706+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
-          "url": "https://wallstreetcn.com/articles/3771519",
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "title": "美国总统特朗普：（谈伊朗问题）当我最初采取这一行动时，我曾以为市场可能会下跌20%或25%；对此我并不介意，因为我知道市场最终会反弹回来。我还曾以为油价可能会冲上200美元甚至250美元。然而事实是，目前的油价仅在100至102美元左右。",
+          "url": "https://flash.jin10.com/detail/20260505173747087800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
-          "url": "https://wallstreetcn.com/livenews/3098454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "time_info": "17时58分"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
           "url": "https://www.cls.cn/detail/2362404",
           "source": "财联社热门",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美元兑日元一度拉升约40点至157.87，现回落至157.55。",
+          "url": "https://wallstreetcn.com/livenews/3098755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美元兑日元USD/JPY短线走低33点，最低至157.40。",
+          "url": "https://flash.jin10.com/detail/20260505173149981800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称，“泽连斯基是个有些难缠的人物，而我们希望能达成一项解决方案。而且，你知道，他们正在丧失领土，但这无论是对俄罗斯还是对他们自身而言，都付出了巨大的代价。不过，我挺喜欢泽连斯基。”",
+          "url": "https://flash.jin10.com/detail/20260505172816971800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
+          "title": "WTI原油日内跌幅达3.0%，报103.11美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
+          "title": "富贵险中求？伊拉克原油“大甩卖”：每桶折价超30美元！",
+          "url": "https://flash.jin10.com/detail/20260505172716467800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "特朗普称从德国撤军规模将远超 5000 人，欧盟称美军从德撤出时机令人意外，呼吁加强北约支柱，如何解读？",
+          "url": "https://www.zhihu.com/question/2034655355435749696",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称伊朗人民需要枪支，并认为他们正在获得一些枪支。",
+          "url": "https://flash.jin10.com/detail/20260505172506108800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "金价又又又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "现货黄金突破4560美元/盎司，日内涨0.81%。",
+          "url": "https://flash.jin10.com/detail/20260505170844252800",
+          "source": "金十数据",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "阿联酋退出欧佩克对石油美元影响几何",
-          "url": "https://www.toutiao.com/trending/7635945645181767231/",
-          "source": "今日头条",
+          "title": "英特尔美股盘前涨超3%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3098737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "美元兑日元USD/JPY一度拉升约40点至157.87，现回落至157.55。",
+          "url": "https://flash.jin10.com/detail/20260505170650116800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
-          "title": "港交所拟重启黄金期货交易",
-          "url": "https://wallstreetcn.com/livenews/3098449",
+          "title": "伊拉克下调愿意通过霍尔木兹海峡运输的买家石油价格。对其主力巴士拉中质原油的官方价格提供最高每桶33.40美元的折扣。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098732",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "摩根大通：将雪佛龙公司目标价从216美元上调至224美元。",
-          "url": "https://flash.jin10.com/detail/20260504170733973800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "摩根大通：将埃克森美孚目标价从170美元上调至173美元。",
-          "url": "https://flash.jin10.com/detail/20260504170611349800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3098440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2.0%，报110.37美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "印度数据中心公司Yotta的CEO表示，公司在IPO前寻求60亿美元的估值。",
-          "url": "https://flash.jin10.com/detail/20260504165231332800",
-          "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "17时58分"
         },
         {
-          "title": "WTI原油日内涨幅达1.0%，报103.01美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098431",
-          "source": "华尔街见闻-快讯",
+          "title": "阿联酋“退群” 石油美元还能撑多久",
+          "url": "https://www.toutiao.com/trending/7636307672383360562/",
+          "source": "今日头条",
           "ranks": [
-            27
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 9,
-      "titles": [
+          "time_info": "17时58分"
+        },
         {
-          "title": "欧洲央行最新调查揭示风险：通胀预期显著上调！",
-          "url": "https://flash.jin10.com/detail/20260504173157330800",
+          "title": "阿联酋告别欧佩克，石油美元的黄昏与黄金新纪元的黎明 | 每日市场观察5.5",
+          "url": "https://flash.jin10.com/detail/20260505170158201800",
           "source": "金十数据",
           "ranks": [
-            4
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "17时58分"
         },
         {
-          "title": "欧洲央行管委Villeroy：加息需谨慎并做好准备",
-          "url": "https://wallstreetcn.com/livenews/3098453",
+          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098728",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委Kazimir：6月加息“几乎不可避免”",
-          "url": "https://wallstreetcn.com/livenews/3098452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委Simkus：很明显我们正在偏离基线情景。 没有承诺采取特定的利率路径。 加息的可能性更大。 很明显我们正在讨论6月可能加息。 供应链问题同样令人担忧。",
-          "url": "https://wallstreetcn.com/livenews/3098446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委卡兹米尔：欧洲面临广泛价格上涨的可能性越来越大，可能会持续一段时间。",
-          "url": "https://flash.jin10.com/detail/20260504170208276800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委卡兹米尔：6月收紧政策几乎是不可避免的。",
-          "url": "https://flash.jin10.com/detail/20260504170203082800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委卡兹米尔：更高的能源价格势必会蔓延至整个经济。",
-          "url": "https://flash.jin10.com/detail/20260504170145521800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行企业调查：油价上涨已迅速传导到大多数依赖石油的商品销售价格上。 如果伊朗战争持续数月，供应链阻碍可能会产生类似疫情时期的通胀压力。 更广泛的价格传导过程可能比过去更为缓慢。",
-          "url": "https://wallstreetcn.com/livenews/3098438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：欧洲央行需要\"关键数据的积累\"，以表明通胀正在固化，才会收紧政策。",
-          "url": "https://flash.jin10.com/detail/20260504170013268800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "time_info": "17时58分"
         }
       ]
     },
@@ -339,26 +289,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌新TPU订单会流向英特尔吗？郭明錤：谷歌连联发科的利润也想省，台积电良率优势显著",
-          "url": "https://wallstreetcn.com/articles/3771528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     }
