@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T18:20:21.669973+08:00",
+  "generated_at": "2026-05-08T17:15:34.936558+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,241 +8,202 @@
       "match_count": 18,
       "titles": [
         {
-          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3771614",
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "现货白银站上80美元/盎司，日内涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3099912",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
           "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普在明尼阿波利斯的移民突击行动，严重拖慢了美国其他刑事起诉案件的进程。",
-          "url": "https://flash.jin10.com/detail/20260507180038509800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "巴菲特为何说美股正赌场化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%AD%A3%E8%B5%8C%E5%9C%BA%E5%8C%96",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "金价今年或涨至5200美元",
-          "url": "https://www.douyin.com/hot/2491112",
-          "source": "抖音",
+          "title": "6G产业化进程加速 工信部批复“黄金频谱”用于试验",
+          "url": "https://www.cls.cn/detail/2365676",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "外交部回应中美元首会晤首要关切议题",
-          "url": "https://www.toutiao.com/trending/7636618601214214163/",
-          "source": "今日头条",
+          "title": "美元指数DXY向下触及98，日内跌0.27%。",
+          "url": "https://flash.jin10.com/detail/20260508164000056800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "日本可能花费320亿美元进行日元买入干预",
-          "url": "https://wallstreetcn.com/livenews/3099891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "世界杯中国赞助商已投入超5亿美元",
-          "url": "https://www.toutiao.com/trending/7636035937323253814/",
-          "source": "今日头条",
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "世界杯中国赞助商已投入超5亿美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "现货白银升至80美元/盎司上方，为4月21日以来首次，日内上涨3.7%。",
-          "url": "https://flash.jin10.com/detail/20260507174418423800",
+          "title": "在岸人民币兑美元5月8日16:30收盘报6.8017，较上一交易日下跌2点。",
+          "url": "https://flash.jin10.com/detail/20260508163111892800",
           "source": "金十数据",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.8015，较上一交易日官方收盘价涨134点，较上日夜盘收盘涨118点。",
-          "url": "https://wallstreetcn.com/livenews/3099879",
+          "title": "英镑兑美元GBP/USD向上触及1.36，日内涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20260508162824288800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "美元指数向下触及98，日内跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3100553",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "特朗普盟友访华对中美关系有何影响",
-          "url": "https://www.toutiao.com/trending/7636787672865833002/",
-          "source": "今日头条",
+          "title": "非农今晚20:30登场 美元会否再遭当头一棒？",
+          "url": "https://flash.jin10.com/detail/20260508162127063800",
+          "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         },
         {
-          "title": "FIFA主席回应200万美元天价门票",
-          "url": "https://www.baidu.com/s?wd=FIFA%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94200%E4%B8%87%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E9%97%A8%E7%A5%A8",
-          "source": "百度热搜",
+          "title": "特朗普对欧设定红线：若不将关税降至零，就大幅加税！",
+          "url": "https://flash.jin10.com/detail/20260508161738691800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "印尼央行行长：外汇储备充足可用于干预。",
-          "url": "https://flash.jin10.com/detail/20260507174855268800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "印尼央行行长：印尼央行将全天候介入，不仅限于国内市场，也包括离岸市场。",
-          "url": "https://flash.jin10.com/detail/20260507174851153800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "印尼央行行长：将大规模干预以稳定货币。",
-          "url": "https://flash.jin10.com/detail/20260507174826792800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
         }
       ]
     },
@@ -251,15 +212,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
-          "url": "https://wallstreetcn.com/articles/3771667",
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国商务部 央行 出口管制",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行行长拉加德：欧洲央行正在研究针对Myhtos驱动的攻击的防御措施。",
+          "url": "https://flash.jin10.com/detail/20260508163450675800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     }
