@@ -1,430 +1,655 @@
 {
-  "generated_at": "2026-05-13T18:45:05.658739+08:00",
+  "generated_at": "2026-05-14T18:18:48.803627+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 32,
+      "match_count": 55,
       "titles": [
         {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "title": "中美元首参观天坛 合影公布",
+          "url": "https://www.toutiao.com/trending/7638832901685120518/",
           "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "title": "习近平为特朗普举行欢迎宴会",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://www.cls.cn/detail/2369985",
-          "source": "财联社热门",
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/articles/3772194",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "直播丨习近平同美国总统特朗普举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174728",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.douyin.com/hot/2497697",
+          "title": "习近平同特朗普会晤详讯公布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中美元首会晤是否讨论对台军售问题？外交部回应",
+          "url": "https://news.ifeng.com/c/8t7a1b3HIGV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普参观天坛:大美中国!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354280&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B%3A%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%21",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平同特朗普参观天坛",
+          "url": "https://www.douyin.com/hot/2498634",
           "source": "抖音",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "title": "中美元首举行会谈，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038210796468098494",
           "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
+          "title": "习近平同特朗普参观天坛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037998600785850525",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平同美国总统特朗普参观天坛",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普抵京，韩正前往机场迎接",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173795",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
-          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "title": "中美元首会谈传递哪些信息",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88%E4%BC%A0%E9%80%92%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中美元首会谈高清大图",
+          "url": "https://www.cls.cn/detail/2371067",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
+          "url": "https://news.ifeng.com/c/8t7cmt9kbtR",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "金价陷入震荡，你能精准找到震荡区间吗？测一测你的真实段位，点击免费测试 ><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260513183507278800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "18时18分"
         },
         {
-          "title": "美银全球研究：将英伟达(NVDA.O)目标价从300美元上调至320美元。",
-          "url": "https://flash.jin10.com/detail/20260513182911000800",
+          "title": "这些美方代表在中美元首会谈会场",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88%E4%BC%9A%E5%9C%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "这些美方代表在中美元首会谈会场",
+          "url": "https://www.douyin.com/hot/2498815",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "美国总统特朗普抵达北京开始访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "法国外交部回应特朗普访华",
+          "url": "https://news.ifeng.com/c/8t7UVLX3uBf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平将为特朗普举行欢迎宴会",
+          "url": "https://flash.jin10.com/detail/20260514174541799800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "18时18分"
         },
         {
-          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://wallstreetcn.com/articles/3772164",
+          "title": "特朗普：世上最顶级企业都想来中国",
+          "url": "https://www.toutiao.com/trending/7639347847373045814/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
+          "url": "https://wallstreetcn.com/articles/3772243",
           "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2371097",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中美元首在祈年殿广场合影",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%9C%A8%E7%A5%88%E5%B9%B4%E6%AE%BF%E5%B9%BF%E5%9C%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "第一现场｜特朗普抵达北京，开启三天访华行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173479",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
-          "url": "https://wallstreetcn.com/articles/3772146",
+          "title": "“最大硅光客户”13亿美元锁定产能！英伟达合作商股价暴涨",
+          "url": "https://www.cls.cn/detail/2370991",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普社媒发帖人曝光：34岁癌症幸存者，只听总统一人指令",
+          "url": "https://news.ifeng.com/c/8t7Qkm6Ew3z",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "芯片市场规模或将超1.5万亿美元",
+          "url": "https://www.douyin.com/hot/2498680",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://wallstreetcn.com/articles/3772261",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "股票奖励大缩水！黄仁勋2026财年总薪酬曝光 较上年少拿1360万美元",
-          "url": "https://www.cls.cn/detail/2369917",
+          "title": "图讯丨习近平同美国总统特朗普参观天坛",
+          "url": "https://www.cls.cn/detail/2371151",
           "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "摩根大通：将思科(CSCO.O)目标价从96美元上调至120美元。",
+          "url": "https://flash.jin10.com/detail/20260514173810164800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
+          "url": "https://wallstreetcn.com/articles/3772216",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普抵达欢迎宴会现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普：今天的会谈举世瞩目",
+          "url": "https://www.toutiao.com/trending/7639530295872749587/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
-          "url": "https://www.zhihu.com/question/2037919154393408436",
+          "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
+          "url": "https://www.zhihu.com/question/2038289422072767093",
           "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+          "title": "特朗普参观天坛：惊艳！大美中国！",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B%EF%BC%9A%E6%83%8A%E8%89%B3%EF%BC%81%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%EF%BC%81",
           "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普期待与中方会晤",
-          "url": "https://www.toutiao.com/trending/7638420198126829594/",
-          "source": "今日头条",
+          "title": "图讯丨美国总统特朗普抵达北京开始访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173813",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=13&Refer=top",
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普说二三把手我都不让他们来",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BA%8C%E4%B8%89%E6%8A%8A%E6%89%8B%E6%88%91%E9%83%BD%E4%B8%8D%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%9D%A5%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
+          "title": "高清大图｜习近平为美国总统特朗普举行欢迎仪式",
+          "url": "https://www.cls.cn/detail/2371032",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
-          "source": "澎湃新闻",
+          "title": "习近平同美国总统特朗普参观天坛",
+          "url": "https://wallstreetcn.com/livenews/3103590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普乘专机抵达中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354259&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普感叹大美中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E5%8F%B9%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中美元首祈年殿广场合影",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%A5%88%E5%B9%B4%E6%AE%BF%E5%B9%BF%E5%9C%BA%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中美元首会谈",
+          "url": "https://www.toutiao.com/trending/7638537146568425514/",
+          "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "国台办回应特朗普访华或讨论台湾问题",
-          "url": "https://www.toutiao.com/trending/7638441986101559359/",
-          "source": "今日头条",
+          "title": "华虹公司：第一季度实现销售收入6.609亿美元，同比增长22.2%；毛利率为13.0%，同比上升3.8个百分点；本季度母公司拥有人应占利润达2,090万美元。预计第二季度销售收入约在6.9亿美元至7亿美元之间；预计毛利率约在14%至16%之间。",
+          "url": "https://wallstreetcn.com/livenews/3103583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普访华欢迎仪式完整版视频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33176000",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "特朗普期待与中方会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%9F%E5%BE%85%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
+          "title": "特朗普：美国大企业家都想来中国",
+          "url": "https://www.douyin.com/hot/2498703",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "南非统计局：南非三月份黄金产量同比增长17.1%。",
+          "url": "https://flash.jin10.com/detail/20260514172956571800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普时隔9年再访华 几点值得关注",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E+%E5%87%A0%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普回应访华团高管名单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=25&Refer=top",
+          "title": "特朗普参观天坛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至2.6%，此前公布Q4财报。",
-          "url": "https://wallstreetcn.com/livenews/3102923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "博威合金：拟出售美国太阳能业务电池资产 交易价款预计约为7.24亿美元",
-          "url": "https://wallstreetcn.com/livenews/3102919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "阿里巴巴：批准每股ADS派发1.05美元现金股息。",
-          "url": "https://wallstreetcn.com/livenews/3102917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "阿里巴巴第四季度营收2,433.8亿元人民币，同比增长2.9%，市场预估2,465.1亿元人民币。 第四季度阿里国际数字商业集团收入354.3亿元人民币，同比增长5.5%，市场预估359.3亿元人民币。 第四季度云智能集团收入416.3亿元人民币，同比增长38%，市场预估414.4亿元人民币。 第四季度中国电商事业集团收入1,222.2亿元人民币，市场预估1,260.3亿元人民币。 第四季度调整后EBITDA164.4亿元人民币，同比下降61%，市场预估240.6亿元人民币。 第四季度调整后净利润8,600万元人民币，上年同期298.5亿元人民币，市场预估150.8亿元人民币。 阿里巴巴美股盘前上涨2.6%。",
-          "url": "https://wallstreetcn.com/livenews/3102907",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "18时18分"
         },
         {
-          "title": "LME三个月铝期货触及每吨3,641美元，为自4月17日以来最高，现涨2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3102897",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普为中国少年儿童驻足鼓掌",
+          "url": "https://www.toutiao.com/trending/7638863754645782534/",
+          "source": "今日头条",
           "ranks": [
-            28
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "18时18分"
         },
         {
-          "title": "文远知行(WRD.O)美股盘前跌超10%，消息面上，公司第一季度营收1.141亿元，预估1.525亿元；净亏损3.891亿元，预估亏损3.035亿元。",
-          "url": "https://flash.jin10.com/detail/20260513181527224800",
-          "source": "金十数据",
+          "title": "中美元首握手",
+          "url": "https://www.toutiao.com/trending/7638536386953612842/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "据路透调查：70位受访经济学家中有59位预计欧洲央行将在6月将存款利率提高至2.25%，4月调查的85位经济学家中有44位。",
-          "url": "https://flash.jin10.com/detail/20260513182455756800",
-          "source": "金十数据",
+          "title": "中国央行：5月15日中国人民银行将开展3000亿元买断式逆回购操作",
+          "url": "https://wallstreetcn.com/livenews/3103609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "据路透调查：70位受访经济学家中有37位预计欧洲央行将在2026年至少加息两次，该比例较4月份调查的85位经济学家中的34位有所上升。",
-          "url": "https://flash.jin10.com/detail/20260513182428272800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "日本央行前行长黑田东彦：从央行独立性的角度来看，央行不会与货币当局协调行动以稳定外汇汇率。",
-          "url": "https://flash.jin10.com/detail/20260513181717423800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "日本央行前行长黑田东彦：日本近期的干预有效地防止了日元跌破160的水平，但对市场的长期影响不大。",
-          "url": "https://flash.jin10.com/detail/20260513181622421800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "保姆级Claude Code速成攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中国央行：初步统计，2026年4月末社会融资规模存量为456.89万亿元，同比增长7.8%。",
+          "url": "https://wallstreetcn.com/livenews/3103608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "中国央行：前四个月人民币存款增加14万亿元",
+          "url": "https://wallstreetcn.com/livenews/3103607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     }
