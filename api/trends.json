@@ -1,375 +1,281 @@
 {
-  "generated_at": "2026-05-21T19:18:11.048304+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-22T18:46:18.308243+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "中方回应特朗普称将与赖清德对话",
-          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "外交部回应“特朗普将与赖清德交谈”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
-          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "中远海发：子公司东方富利11拟通过概括继受造船合同项下权利义务的方式向惠丰公司购入由扬州重工在建的8艘21万吨级散货船，交易金额13.87亿元转让款及4.24亿美元剩余造船款；子公司东方富利12拟通过概括继受造船合同项下权利义务的方式向敦和船务购入由舟山重工在建的2艘6.4万吨级散货船，交易金额2498.97万美元转让款及4615万美元剩余造船款。",
-          "url": "https://wallstreetcn.com/livenews/3107380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "礼来美股盘前跌近2%，礼来表示，使用Retatrutide最高剂量的患者体重减轻28.3%。",
-          "url": "https://wallstreetcn.com/livenews/3107376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
-          "url": "https://wallstreetcn.com/articles/3772763",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
-          "url": "https://www.cls.cn/detail/2377710",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "特朗普特使强行访问格陵兰后称：美国是时候重新上岛了",
-          "url": "https://news.ifeng.com/c/8tJB4De0lqd",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "马斯克离全球首位万亿美元富翁又近了一步",
-          "url": "https://www.cls.cn/detail/2377533",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "女子在水贝捡十几条黄金首饰后报警",
-          "url": "https://www.toutiao.com/trending/7642243568236777006/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "油价暴跌 黄金白银上涨",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达2.0%，报100.24美元/桶。 布伦特原油日内涨幅达2.0%，报107.16美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3107373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "布伦特原油5分钟内上涨1.67美元/桶，报106.12美元/桶；WTI原油5分钟内上涨1.46美元/桶，报99.53美元/桶。据报道，伊朗最高领袖下令：接近武器级的铀必须留在国内。",
-          "url": "https://wallstreetcn.com/livenews/3107372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "汇丰：维持2026年TTF价格预测为每百万英热单位16美元，2027年为12美元，2028年为9美元。",
-          "url": "https://flash.jin10.com/detail/20260521184639869800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "巴克莱：将可口可乐公司的目标价从85美元上调至89美元。",
-          "url": "https://flash.jin10.com/detail/20260521184523262800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "美股量子计算股盘前拉升，美国将向9家量子计算公司划拨20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3107366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
-          "url": "https://wallstreetcn.com/livenews/3107363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "布伦特原油向上触及104美元/桶，日内涨1.70%。",
-          "url": "https://flash.jin10.com/detail/20260521184100390800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "金十数据整理：英伟达财报超预期引多家机构上调目标价，最高上看400美元",
-          "url": "https://flash.jin10.com/detail/20260521183834221800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "三星芯片员工据估算将平均获得34万美元奖金",
-          "url": "https://wallstreetcn.com/livenews/3107349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "美媒：美国将向量子计算公司提供20亿美元资助并考虑入股",
-          "url": "https://flash.jin10.com/detail/20260521183653372800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "瑞穗银行：将英伟达公司目标价从275美元上调至300美元。",
-          "url": "https://flash.jin10.com/detail/20260521183321858800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "网易云音乐(09899.HK)：2026年第一季度净收入为人民币20亿元（2.872亿美元），上一季度和去年同期分别为人民币20亿元和人民币19亿元。",
-          "url": "https://flash.jin10.com/detail/20260521183301533800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "Applied Digital Corp.（APLD）美股盘前涨近12%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
-          "url": "https://wallstreetcn.com/livenews/3107332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 1,
+      "match_count": 13,
       "titles": [
         {
-          "title": "穆迪对印尼出口管制新规发出警告 称可能损害投资者信心",
-          "url": "https://wallstreetcn.com/livenews/3107377",
+          "title": "日本央行行长称高市早苗希望日本央行采取适当政策",
+          "url": "https://wallstreetcn.com/livenews/3107991",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：与高市早苗讨论了经济和市场问题。",
+          "url": "https://wallstreetcn.com/livenews/3107967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "【中国央行：5月25日将开展6000亿元MLF操作】中国央行：为保持银行体系流动性充裕，2026年5月25日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展6000亿元MLF操作，期限为1年期。",
+          "url": "https://wallstreetcn.com/livenews/3107964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们讨论了经济、价格和市场发展，并考虑了中东冲突的影响。",
+          "url": "https://flash.jin10.com/detail/20260522175855909800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：（在被问及首相是否同意日本央行对货币政策的立场时）我们就多个方面积极地交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260522175845439800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：此次会议非常有益，我们能够讨论多个议题。",
+          "url": "https://flash.jin10.com/detail/20260522175738923800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：首相表示，她希望日本央行根据与政府的协议，采取适当的货币政策，同时考虑政府为缓解通胀上升带来的冲击所采取的措施。",
+          "url": "https://flash.jin10.com/detail/20260522175733926800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：首相没有对我提出特别要求。",
+          "url": "https://flash.jin10.com/detail/20260522175713556800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "欧洲央行行长拉加德称长期通胀预期仍基本符合目标",
+          "url": "https://wallstreetcn.com/livenews/3107983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：同意日本央行与政府将继续紧密协调。",
+          "url": "https://flash.jin10.com/detail/20260522175700001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：即使当前危机现在得到解决，也会存在滞后效应。 我们将采取必要措施，实现2%的价格稳定目标。",
+          "url": "https://wallstreetcn.com/livenews/3107949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：（在被问及市场对6月加息的预期时）没有讨论具体细节。",
+          "url": "https://flash.jin10.com/detail/20260522175600704800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "日本央行行长植田和男：向首相解释了我们的货币政策思路。与日本首相高市早苗讨论了经济和市场。",
+          "url": "https://flash.jin10.com/detail/20260522175541819800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "特朗普声称要与赖清德通话，美媒分析后果",
+          "url": "https://news.ifeng.com/c/8tKs2cfjitj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "财报季过后，更多分析师转向看好美股",
+          "url": "https://flash.jin10.com/detail/20260522180957528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "特朗普宣布“暂缓执行”拜登政府的制冷剂环保规定",
+          "url": "https://wallstreetcn.com/livenews/3107975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "黄金价格不断下跌 货币重置开始了吗",
+          "url": "https://www.toutiao.com/trending/7642595063947595305/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "美股盘前，美股存储芯片概念股走低，美光跌约1.8%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3107953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "下周一港股、美股休市 金银油交易将提前结束",
+          "url": "https://flash.jin10.com/detail/20260522175621393800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "黄金高位震荡背后的真正信号是什么",
+          "url": "https://www.toutiao.com/trending/7642317091608989203/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     }
