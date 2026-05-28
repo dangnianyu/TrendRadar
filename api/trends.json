@@ -1,268 +1,180 @@
 {
-  "generated_at": "2026-05-27T19:34:10.399537+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-28T19:34:26.767196+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 17,
+      "match_count": 13,
       "titles": [
         {
-          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773173",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
-          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
-          "source": "凤凰网",
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "美国财长贝森特感谢纽约梅隆银行和Robinhood在处理特朗普账户方面所做的工作。",
+          "url": "https://wallstreetcn.com/livenews/3110708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
-          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3110051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "美国总统特朗普祝贺肯·帕克斯顿赢得得州共和党初选。",
-          "url": "https://flash.jin10.com/detail/20260527192806157800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3110049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
-          "url": "https://wallstreetcn.com/articles/3773167",
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
+          "url": "https://wallstreetcn.com/articles/3773285",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
-          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "title": "柯尔百货第一季度销售净额30亿美元，预估29.9亿美元。 第一季度每股亏损0.13美元，上年同期每股亏损0.13美元。 柯尔百货仍然预测全年营业利益率2.8％至3.4％，市场预估3.28％。 柯尔百货仍然预测全年调整后每股收益1美元至1.60美元，市场预估1.34美元。 柯尔百货预计全年资本支出3.50亿美元至4.00亿美元，市场预估3.731亿美元。 柯尔百货美股盘前涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3110695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
+          "url": "https://www.zhihu.com/question/2043314967013581849",
           "source": "知乎",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "美股期货走低，纳斯达克100指数期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3110691",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
-          "title": "现货黄金日内跌幅达1%，报4461.2美元/盎司。 纽约金日内跌幅达1%，报4484.9美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3110045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "欧洲央行发布严厉警告：特朗普及伊朗冲突正将全球推向危机边缘！",
-          "url": "https://flash.jin10.com/detail/20260527192119130800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "港交所：推出黄金期货全市场交易费用豁免优惠",
-          "url": "https://wallstreetcn.com/livenews/3110024",
+          "title": "礼来美股盘前涨近2%，美国大型医疗保健公司CVS将礼来公司的Zepbound纳入首选药物清单，此举与之前做法相反。",
+          "url": "https://wallstreetcn.com/livenews/3110687",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "【Q1全球DRAM市占排名：三星继续领跑 长鑫存储份额升至7.7%】据CFM闪存市场数据显示，三星一季度DRAM销售收入达382.14亿美元，环比增长98.4%，市场份额为40.5%，进一步拉大和其他供应商的份额差距，排名第一；SK海力士一季度DRAM销售收入达279.25亿美元，因其HBM供应占比较多，总收入环比增长62.1%低于其他供应商，市场份额为29.6%，排名第二；美光一季度（2025年12月-2026年2月）DRAM销售收入达187.68亿美元，环比增长73.6%，市场份额19.9%，排名第三；长鑫存储一季度DRAM销售收入达73.09亿美元，环比增长115.1%，市场份额进一步提升至7.7%，排名第四。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3110001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
       ]
     },
     {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 6,
+      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "欧洲央行管委马赫鲁夫：市场对利率路径的假设部分表明，市场理解我们维持价格稳定的决心。",
-          "url": "https://flash.jin10.com/detail/20260527193039678800",
-          "source": "金十数据",
+          "title": "全球权威编程榜单放榜，阿里千问 3.7 编程能力跻身全球前二，含金量有多高？将如何影响软件开发？",
+          "url": "https://www.zhihu.com/question/2042588462981939735",
+          "source": "知乎",
           "ranks": [
-            1
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "欧洲央行管委马赫鲁夫：我认为我们尚未超越3月欧洲央行会议上提出的不利情景，预计6月将会出现新的情景。",
-          "url": "https://flash.jin10.com/detail/20260527193019221800",
-          "source": "金十数据",
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "凯投宏观：关于各国央行即将大幅收紧政策的担忧似乎过度",
-          "url": "https://flash.jin10.com/detail/20260527192908741800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "英国两年期国债收益率下跌，市场对英国央行加息的预期降低",
-          "url": "https://flash.jin10.com/detail/20260527192722642800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "欧洲央行管委佩雷拉：中东冲突预计将对价格走势产生重大影响。",
-          "url": "https://flash.jin10.com/detail/20260527191003902800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
-          "url": "https://wallstreetcn.com/livenews/3110017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
