@@ -1,353 +1,204 @@
 {
-  "generated_at": "2026-06-04T19:14:27.224778+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-05T19:23:49.302038+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 23,
+      "match_count": 14,
       "titles": [
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "伯恩斯坦：将博通(AVGO.O)目标价从525美元上调至550美元。",
-          "url": "https://flash.jin10.com/detail/20260604184910641800",
+          "title": "英国政府预计国内油价在2028年之前可能维持在每桶100美元左右",
+          "url": "https://flash.jin10.com/detail/20260605191601414800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3114398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
-          "url": "https://wallstreetcn.com/articles/3773813",
-          "source": "华尔街见闻",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
-          "url": "https://wallstreetcn.com/articles/3773781",
-          "source": "华尔街见闻",
+          "title": "比利时黄金一代尾巴能走多远",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E5%B0%BE%E5%B7%B4%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "杰富瑞：将雷神科技(RTX.N)评级从持有上调至买入，将目标价从210美元上调至220美元。",
-          "url": "https://flash.jin10.com/detail/20260604184242364800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "从商业角度分析，李宁给 38 岁斯蒂芬·库里超 4 亿美元的球鞋合同是否合理？",
-          "url": "https://www.zhihu.com/question/2045429680648586500",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
-          "url": "https://www.cls.cn/detail/2390391",
-          "source": "财联社热门",
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3114383",
-          "source": "华尔街见闻-快讯",
+          "title": "五大非农情景剖析：数据强弱如何影响黄金与美元？",
+          "url": "https://flash.jin10.com/detail/20260605190911605800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "致尚科技：2026年1月1日至本公告披露日，公司持续收到美国某光纤连接解决方案提供商的采购订单，累积订单金额约6640.04万美元，折合人民币约4.6亿元（不含税）。",
-          "url": "https://wallstreetcn.com/livenews/3114379",
-          "source": "华尔街见闻-快讯",
+          "title": "母亲60g黄金藏水壶被女儿当废品卖了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B260g%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "奥本海默：将博通(AVGO.O)目标价从450美元上调至535美元。",
-          "url": "https://flash.jin10.com/detail/20260604183630474800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "尼德汉姆：将CrowdStrike(CRWD.O)目标价从475美元上调至780美元。",
-          "url": "https://flash.jin10.com/detail/20260604183506970800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
-          "url": "https://flash.jin10.com/detail/20260604183057599800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "如何看待美股窄牛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "SpaceX估算其可量化的总可用市场（TAM）约为28.5万亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3114368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
-          "url": "https://www.zhihu.com/question/2045468542531851848",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "百万黄金被盗 半瓶可乐成破案关键",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90%E6%88%90%E7%A0%B4%E6%A1%88%E5%85%B3%E9%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "投行Benchmark：将博通(AVGO.O)目标价从485美元上调至545美元。",
-          "url": "https://flash.jin10.com/detail/20260604182941924800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "大宗商品贸易商托克集团（Trafigura）利润飙升至逾40亿美元，创纪录派发股息。",
-          "url": "https://wallstreetcn.com/livenews/3114362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "日本或通过抛售了美债 为创纪录规模的日元汇市干预筹资",
+          "url": "https://wallstreetcn.com/livenews/3115065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "今夜非农重点不在总体数据？国际黄金弱势调整进入倒计时 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260605190723267800",
+          "source": "金十数据",
           "ranks": [
-            26
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
+        },
+        {
+          "title": "德意志银行：将Robinhood(HOOD.O)目标价从88美元上调至98美元。",
+          "url": "https://flash.jin10.com/detail/20260605185902342800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "据一份报告显示，英国预计在伊朗局势进一步恶化的情况下，价在2028年前存在升至每桶100美元的风险。",
+          "url": "https://flash.jin10.com/detail/20260605185611761800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "俄外长说拜登战争已变为特朗普战争",
+          "url": "https://wallstreetcn.com/livenews/3115044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
     {
-      "keyword_group": "中国商务部 央行 出口管制",
+      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
       "match_count": 3,
       "titles": [
         {
-          "title": "商务部：美滥用出口管制冲击全球半导体产供链稳定",
-          "url": "https://www.cls.cn/detail/2390673",
-          "source": "财联社热门",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "瑞典央行行长特登：这并不意味着我排除未来的量化宽松。",
-          "url": "https://flash.jin10.com/detail/20260604183047471800",
-          "source": "金十数据",
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         },
         {
-          "title": "瑞典央行行长特登：瑞典央行在利率达到下限之前应保持耐心，切勿急于转向量化宽松政策。",
-          "url": "https://flash.jin10.com/detail/20260604183035625800",
-          "source": "金十数据",
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "19时23分"
         }
       ]
     }
