@@ -1,232 +1,276 @@
 {
-  "generated_at": "2026-06-07T18:26:05.076561+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-08T20:25:20.920137+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
-          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
-          "url": "https://wallstreetcn.com/articles/3774030",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "以色列央行：在5月份购买了8.01亿美元的外汇，以维持市场有序运作。",
-          "url": "https://flash.jin10.com/detail/20260607173244399800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "以色列央行：以色列外汇储备在5月份为2386.81亿美元，4月份为2357.28亿美元。",
-          "url": "https://flash.jin10.com/detail/20260607173222807800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "美股大跌 A股周一能扛住吗",
-          "url": "https://www.toutiao.com/trending/7648566314880994870/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "中国央行连续第19个月增持黄金",
-          "url": "https://wallstreetcn.com/livenews/3115513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "中国5月外汇储备 34422.4亿美元，前值 34105.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
+          "title": "以伊战事缓和，美股期指走高，科技股盘前反弹，油价涨幅收窄，黄金重回4330美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "Strategy以1.013亿美元的总价购入1550枚比特币，此前首度出售比特币，套现250万美元。",
+          "url": "https://wallstreetcn.com/livenews/3116161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "亿航智能宣布3000万美元股票回购计划",
+          "url": "https://wallstreetcn.com/livenews/3116160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "据以色列i24新闻台：内塔尼亚胡与特朗普今天进行了通话，随后特朗普在社交平台发帖称伊以双方都希望停火。",
+          "url": "https://flash.jin10.com/detail/20260608200408843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月8日（周一）晚盘盘初下跌0.12%报946.0元/克；<br/>上海黄金交易所白银T+D 6月8日（周一）晚盘盘初上涨0.72%报16453.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260608200350987800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
-          "source": "华尔街见闻-快讯",
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
+          "url": "https://www.cls.cn/detail/2393222",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "印度1-3月经常账户盈余71亿美元，市场预期为-14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260608200149934800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "20时25分"
         },
         {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
+          "title": "挂单报告：国际现货黄金上方空单占优 镑美留意下方多单",
+          "url": "https://flash.jin10.com/detail/20260608200017095800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "央行连续 19 个月增持黄金 ，2026 年 5 月末外储站稳 3.4 万亿美元上方，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2047232791809615224",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与SK海力士和SK Telecom的合作未来可能为韩国带来数千亿美元的业务。",
+          "url": "https://wallstreetcn.com/livenews/3116140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "国际原油期货涨幅回落至3%以内，WTI原油期货价格涨2.89%，报93.161美元/桶；布伦特原油期货价格涨2.62%，报95.525美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3116123",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "美股股指期货持续走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.55%，道琼斯指数期货涨0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3116122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "中国商务部 央行 出口管制",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中老两国央行续签相关合作文件",
+          "url": "https://wallstreetcn.com/livenews/3116159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中老两国央行续签相关合作文件",
+          "url": "https://flash.jin10.com/detail/20260608195633696800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "塞浦路斯央行行长：欧洲应推动联合发债打造安全资产",
-          "url": "https://flash.jin10.com/detail/20260607175700993800",
-          "source": "金十数据",
+          "title": "苹果AI告急 库克押注谷歌Gemini救场",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI%E5%91%8A%E6%80%A5+%E5%BA%93%E5%85%8B%E6%8A%BC%E6%B3%A8%E8%B0%B7%E6%AD%8CGemini%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            2
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "20时25分"
         }
       ]
     }
