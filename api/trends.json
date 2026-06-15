@@ -1,215 +1,220 @@
 {
-  "generated_at": "2026-06-14T18:47:16.972885+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-15T21:51:22.578599+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
-          "title": "记者实测最贵世界杯 1瓶水5.25美元",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E6%9C%80%E8%B4%B5%E4%B8%96%E7%95%8C%E6%9D%AF+1%E7%93%B6%E6%B0%B45.25%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
-          "url": "https://wallstreetcn.com/articles/3774599",
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "美被曝同意伊朗稀释高浓缩铀库存，解冻伊朗250亿美元资产",
-          "url": "https://flash.jin10.com/detail/20260614182219346800",
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "金十图示：2026年06月15日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260615214236522800",
           "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "Anthropic因对其每月200美元的AI计划设置使用限制而被起诉。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119725",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "title": "德国总理默茨：（关于乌克兰）这是第一次，外交有可能打开一个窗口；希望在G7峰会上与美国总统特朗普讨论此事。",
+          "url": "https://flash.jin10.com/detail/20260615214047039800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：船舶开始移动，许多装载着石油。 它们正沿着南部‘高速’行驶，这条路径绝对安全可靠，状况极佳。",
+          "url": "https://wallstreetcn.com/livenews/3119723",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "据路透社/益普索民调：美国总统特朗普在美国乡村地区选民中的支持率降至50%，为其总统任内最低水平，较2025年2月的60%有所下降。",
-          "url": "https://flash.jin10.com/detail/20260614180317033800",
+          "title": "美股太空概念股走强，KULR Technology涨11%、Rocket Lab涨6.88%、波音(BA.N)涨4%。",
+          "url": "https://flash.jin10.com/detail/20260615214023301800",
           "source": "金十数据",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3119717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.toutiao.com/trending/7650548712628944938/",
-          "source": "今日头条",
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "摩根士丹利：资金或从科技股扩散，美股上涨结构面临变化",
+          "url": "https://flash.jin10.com/detail/20260615213503873800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "以色列官员：以色列总理内塔尼亚胡与美国总统特朗普关系良好，盟友之间难免会出现分歧，这些分歧能够被克服。",
-          "url": "https://flash.jin10.com/detail/20260614173808225800",
+          "title": "福克斯将以220亿美元收购流媒体平台Roku，福克斯公司股价大跌14%，创下史上最大单日跌幅，ROKU(ROKU.O)跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260615213404352800",
           "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "金价跌至900元关口 大妈又来抄底了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3900%E5%85%83%E5%85%B3%E5%8F%A3+%E5%A4%A7%E5%A6%88%E5%8F%88%E6%9D%A5%E6%8A%84%E5%BA%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "科威特将7月出口至亚洲的官方原油售价设定为较阿曼/迪拜均价升水5.25美元。",
-          "url": "https://flash.jin10.com/detail/20260614173445158800",
+          "title": "美国最高法院将审理特朗普政府的上诉，该案涉及针对面临遣返程序的特定移民的长期拘留问题。",
+          "url": "https://flash.jin10.com/detail/20260615213055714800",
           "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         },
         {
-          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3119171",
+          "title": "美伊达成谅解备忘录 美股高开",
+          "url": "https://flash.jin10.com/detail/20260615213035244800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "加拿大支付服务商Nuvei以27.5亿美元收购Payoneer派安盈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "报道：英伟达拟通过债券发行筹资至少200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119691",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "time_info": "21时51分"
         }
       ]
     }
