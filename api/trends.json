@@ -1,232 +1,198 @@
 {
-  "generated_at": "2026-06-19T20:02:47.595047+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-20T18:30:50.315853+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价 黄金 美债 美股 美元 特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "鸿海董事长：每1GW Vera Rubin数据中心，资本开支高达470亿美元，每年电力成本13亿美元",
+          "url": "https://wallstreetcn.com/articles/3775108",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "市场消息：意大利总理梅洛尼发布了一段视频批评特朗普，称希望他在对抗“西方的敌人”时也能表现出同样的决心。此前，特朗普声称梅洛尼在G7峰会上“乞求”与他合影。特朗普和梅洛尼过去关系非常友好。",
-          "url": "https://flash.jin10.com/detail/20260619194948454800",
-          "source": "金十数据",
+          "title": "以黎局势挑动市场神经，欧股一度转涨，布油艰难反弹，美元跌落一年高位",
+          "url": "https://wallstreetcn.com/articles/3775100",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "特朗普称意大利总理在G7峰会上“求着”合影 后者否认称完全捏造",
-          "url": "https://wallstreetcn.com/livenews/3122086",
-          "source": "华尔街见闻-快讯",
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "特朗普被曝挪用特勤局资金建宴会厅",
-          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404205",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
-          "url": "https://www.zhihu.com/question/2051265976675604351",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "知情人士：Momenta拟在香港IPO筹资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3122077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
           "source": "今日头条",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "越南前女首富爱马仕包拍出44万美元",
-          "url": "https://www.toutiao.com/trending/7652907945642135082/",
-          "source": "今日头条",
+          "title": "土耳其黄金一代耻辱出局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。",
-          "url": "https://wallstreetcn.com/livenews/3122070",
-          "source": "华尔街见闻-快讯",
+          "title": "香港黄金大劫案拘捕4男3女",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%99%E6%B8%AF%E9%BB%84%E9%87%91%E5%A4%A7%E5%8A%AB%E6%A1%88%E6%8B%98%E6%8D%954%E7%94%B73%E5%A5%B3",
+          "source": "百度热搜",
           "ranks": [
-            18
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
-          "title": "随着中东局势缓解，乌拉尔原油在印度港口对布伦特的折价降至每桶4美元。",
-          "url": "https://flash.jin10.com/detail/20260619190408920800",
+          "title": "瑞安航空首席执行官奥利里：如果油价降至每桶低于80美元或80美元左右，我们肯定会考虑为2027年夏季开始对冲。",
+          "url": "https://flash.jin10.com/detail/20260620160437580800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "18时30分"
         },
         {
-          "title": "说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅",
-          "url": "https://wallstreetcn.com/livenews/3122057",
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中国商务部 央行 出口管制",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "俄罗斯央行将基准利率下调至 14.25%，预估 14.00%，前值 14.50%。",
-          "url": "https://wallstreetcn.com/livenews/3122072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "18时30分"
         },
         {
-          "title": "俄罗斯央行降息25个基点至14.25%，降幅小于预期",
-          "url": "https://flash.jin10.com/detail/20260619185835189800",
-          "source": "金十数据",
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 千问 谷歌 google gemini chatgpt openai Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "18时30分"
         }
       ]
     }
