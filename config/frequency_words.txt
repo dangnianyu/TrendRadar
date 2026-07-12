@@ -1,6 +1,9 @@
 DeepSeek
 梁文锋
 
+Claude
+Anthropic
+
 谷歌
 google
 gemini
@@ -8,18 +11,20 @@ gemini
 chatgpt
 openai
 
-金价
-
 黄金
 +价格
 
 美债
+!预计
+!预估
 
 美股
+!预计
+!预估
 
 美元
 +指数
+!预计
+!预估
 
 特朗普
-
-伊朗
